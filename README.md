@@ -5,32 +5,32 @@ Below is a brief overview of each homework assignment:
 
 1. Homework 1:
    
-  Link: https://docs.google.com/document/d/1JNBwW9QvVQp3u1irQVDk_aoPfNT7YmWQ_01hXSpWtdw/edit
+     Link: https://docs.google.com/document/d/1JNBwW9QvVQp3u1irQVDk_aoPfNT7YmWQ_01hXSpWtdw/edit
+   
+     Part 1: Array & String Problems (~7 hrs)
+     
+     Question 1: MaxMeanSubArray
+     
+     Question 2: ReverseVowels
+     
+     Question 3: ZeroSumSubArrays
+     
+     Question 4: BackspaceStringCompare
+     
+     Question 5: ShortestSubstring
+     
+     Question 6: MissingInteger
+     
+     Question 7: KAnagrams
+     
+     Question 8: MergeIntervals
+     
+     Question 9: DedupArray
+     
+     Question 10: TwoSum
 
-  Part 1: Array & String Problems (~7 hrs)
-  
-  Question 1: MaxMeanSubArray
-  
-  Question 2: ReverseVowels
-  
-  Question 3: ZeroSumSubArrays
-  
-  Question 4: BackspaceStringCompare
-  
-  Question 5: ShortestSubstring
-  
-  Question 6: MissingInteger
-  
-  Question 7: KAnagrams
-  
-  Question 8: MergeIntervals
-  
-  Question 9: DedupArray
-  
-  Question 10: TwoSum
 
-
-3. Homework 2:
+2. Homework 2:
    
    Link: https://docs.google.com/document/d/1_4bWWCYTRLUDrwEHbRIo3BrI5gFBNH9g1bype9Xid78/edit
    
@@ -64,7 +64,7 @@ Below is a brief overview of each homework assignment:
    
       Question 11: FloorInBST
 
-5. Homework 3:
+3. Homework 3:
    
    Link: https://docs.google.com/document/d/1zJ4Kiu5teJm-_9wm9SZ1_UJCLkMvvTx99wCqhY95DxU/edit
    
@@ -94,7 +94,7 @@ Below is a brief overview of each homework assignment:
    
     Question 11: VacationDestinations
 
-7. Homework 4:
+4. Homework 4:
    
   Link: https://docs.google.com/document/d/13S3sLQJa75XS-unlufcVw9rJmugXGRudsOxIdCPLNwY/edit 
   
