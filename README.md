@@ -2,30 +2,33 @@
 
 Welcome to the Uber Prep Career 2023 Homework Assignments repository! In this repository, you will find the solutions and resources for the four homework assignments that were completed as part of the Uber Prep Career 2023.
 Below is a brief overview of each homework assignment:
+
 1. Homework 1:
+   
   Link: https://docs.google.com/document/d/1JNBwW9QvVQp3u1irQVDk_aoPfNT7YmWQ_01hXSpWtdw/edit
 
   Part 1: Array & String Problems (~7 hrs)
   
-    Question 1: MaxMeanSubArray
-    
-    Question 2: ReverseVowels
-    
-    Question 3: ZeroSumSubArrays
-    
-    Question 4: BackspaceStringCompare
-    
-    Question 5: ShortestSubstring
-    
-    Question 6: MissingInteger
-    
-    Question 7: KAnagrams
-    
-    Question 8: MergeIntervals
-    
-    Question 9: DedupArray
-    
-    Question 10: TwoSum
+  Question 1: MaxMeanSubArray
+  
+  Question 2: ReverseVowels
+  
+  Question 3: ZeroSumSubArrays
+  
+  Question 4: BackspaceStringCompare
+  
+  Question 5: ShortestSubstring
+  
+  Question 6: MissingInteger
+  
+  Question 7: KAnagrams
+  
+  Question 8: MergeIntervals
+  
+  Question 9: DedupArray
+  
+  Question 10: TwoSum
+
 
 3. Homework 2:
    
